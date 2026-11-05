@@ -1,0 +1,16 @@
+# Build output
+**/bin/
+**/obj/
+.vs/
+.idea/
+
+# Test output
+TestResults/
+*.trx
+*.log
+screenshots/
+
+# User-specific files
+*.user
+*.suo
+.env
